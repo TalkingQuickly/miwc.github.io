@@ -6,9 +6,6 @@ categories: ruby learning
 biofooter: false
 general_signup: true
 ---
-
-# Coding for Community Managers
-
 At MIWC we've been pioneering a different way to learn to code. We believe that the best way to learn is by making real, useful things from day one. That's how every great developer that we know learned, it's how we learned and it's how we teach. Our first course, a general web coding course has so far taught well over a hundred people the basics of coding and it's been incredible to see people going on to build fully functioning web applications and some even move into development as a career.
 
 But our long term goal is a bit different to most of the coding courses out there. We're not trying to teach people to become developers. We're finding ways to teach people enough code that they can build useful things that make their existing jobs better. That could mean automating boring but time consuming tasks, allowing them to make tweaks to websites and email templates without calling in the tech team or building internal tools to make everyones lives easier.
