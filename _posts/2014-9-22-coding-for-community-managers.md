@@ -6,6 +6,9 @@ categories: ruby learning
 biofooter: false
 general_signup: true
 ---
+
+### Update: Our *Coding for Community Professionals* course in now available [here](https://www.makeitwithcode.com/coding-for-community-professionals).
+
 At MIWC we've been pioneering a different way to learn to code. We believe that the best way to learn is by making real, useful things from day one. That's how every great developer that we know learned, it's how we learned and it's how we teach. Our first course, a general web coding course has so far taught well over a hundred people the basics of coding and it's been incredible to see people going on to build fully functioning web applications and some even move into development as a career.
 
 But our long term goal is a bit different to most of the coding courses out there. We're not trying to teach people to become developers. We're finding ways to teach people enough code that they can build useful things that make their existing jobs better. That could mean automating boring but time consuming tasks, allowing them to make tweaks to websites and email templates without calling in the tech team or building internal tools to make everyones lives easier.
@@ -29,3 +32,5 @@ As a starting point, here are some of the topics we're thinking of covering base
 If you're a community manager and you're interested, we'd really like to hear from you. The more people we can talk to before finalising the syllabus, the more we can ensure that the things we're teaching are the right ones.
 
 The final course will be available towards the end of the year but we'll be giving early access to everyone who gets involved early and helps us develop the sylabus. If you're interested just enter your email below and we'll be in touch shortly. Otherwise feel free to email me directly ben@makeitwithcode.com.
+
+### Update: Our *Coding for Community Professionals* course in now available [here](https://www.makeitwithcode.com/coding-for-community-professionals).
