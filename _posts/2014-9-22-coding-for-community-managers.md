@@ -7,7 +7,7 @@ biofooter: false
 general_signup: true
 ---
 
-#### Update: Our *Coding for Community Professionals* course in now available [here](https://www.makeitwithcode.com/coding-for-community-professionals).
+#### Update: [Our *Coding for Community Professionals* course in now available. Click here to view the syllabus.](https://www.makeitwithcode.com/coding-for-community-professionals)
 
 At MIWC we've been pioneering a different way to learn to code. We believe that the best way to learn is by making real, useful things from day one. That's how every great developer that we know learned, it's how we learned and it's how we teach. Our first course, a general web coding course has so far taught well over a hundred people the basics of coding and it's been incredible to see people going on to build fully functioning web applications and some even move into development as a career.
 
@@ -33,4 +33,4 @@ If you're a community manager and you're interested, we'd really like to hear fr
 
 The final course will be available towards the end of the year but we'll be giving early access to everyone who gets involved early and helps us develop the sylabus. If you're interested just enter your email below and we'll be in touch shortly. Otherwise feel free to email me directly ben@makeitwithcode.com.
 
-#### Update: Our *Coding for Community Professionals* course in now available [here](https://www.makeitwithcode.com/coding-for-community-professionals).
+#### Update: [Our *Coding for Community Professionals* course in now available. Click here to view the syllabus.](https://www.makeitwithcode.com/coding-for-community-professionals)
