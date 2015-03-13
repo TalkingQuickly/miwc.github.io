@@ -7,7 +7,10 @@ biofooter: false
 general_signup: true
 ---
 
+ <br/>    
+
 #### Update: [Our *Coding for Community Professionals* course in now available. Click here to view the syllabus.](https://www.makeitwithcode.com/coding-for-community-professionals)
+
 
 At MIWC we've been pioneering a different way to learn to code. We believe that the best way to learn is by making real, useful things from day one. That's how every great developer that we know learned, it's how we learned and it's how we teach. Our first course, a general web coding course has so far taught well over a hundred people the basics of coding and it's been incredible to see people going on to build fully functioning web applications and some even move into development as a career.
 
